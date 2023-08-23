@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\1-Programming\6-Problem Solving\1-Assuit Sheet\1-Sheet-1\4-Difference\4-Difference\FileName.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\1-Programming\6-Problem Solving\1-Assuit Sheet\1-Sheet-1\4-Difference\4-Difference\FileName.cpp(12,10): warning C4566: character represented by universal-character-name '\u2009' cannot be represented in the current code page (1256)
+D:\1-Programming\6-Problem Solving\1-Assuit Sheet\1-Sheet-1\4-Difference\4-Difference\FileName.cpp(6,6): warning C4101: 'x': unreferenced local variable
+  4-Difference.vcxproj -> D:\1-Programming\6-Problem Solving\1-Assuit Sheet\1-Sheet-1\4-Difference\x64\Debug\4-Difference.exe
