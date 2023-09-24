@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\1-Programming\Assuit-Sheet\5-sheet-5\4-Equation\4-Equation\FileName.cpp(13,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  4-Equation.vcxproj -> D:\1-Programming\Assuit-Sheet\5-sheet-5\4-Equation\x64\Debug\4-Equation.exe

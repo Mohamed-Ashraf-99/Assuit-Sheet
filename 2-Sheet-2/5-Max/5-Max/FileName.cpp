@@ -8,10 +8,11 @@ int main()
 	cin >> num;
 	for (int i = 0; i < num; i++)
 	{
-		cin >> i;
-		if (Max < i)
+		int num;
+		cin >> num; 
+		if (Max < num)  
 		{
-			Max = i;
+			Max = num; 
 		}
 	}
 	cout << Max << endl;
